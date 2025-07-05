@@ -1,0 +1,24 @@
+<package>
+	<id>dev.preloading.retranslate</id>
+	<name>Retranslate</name>
+	<version>1.1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>3.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Fixes Google Translate.</description>
+	</descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<version>1.1.0</version>
+		<change>IOS 3 support added.</change>
+	</changelog>
+	<links>
+	</links>
+</package>
