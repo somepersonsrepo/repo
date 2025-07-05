@@ -1,0 +1,22 @@
+<package>
+	<id>com.ericasadun.utilities</id>
+	<name>Erica Utilities</name>
+	<version>beta17</version>
+	<compatibility>
+		<firmware>
+			<miniOS>5.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A collection of command-line utilities for various purposes.</description>
+	</descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<version>beta17</version>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+	</links>
+</package>

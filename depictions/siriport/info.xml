@@ -1,0 +1,24 @@
+<package>
+	<id>siriport.ru.siri.ios6.1.x</id>
+	<name>SiriPort.Ru[Original-iOS6.1.x]</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.1</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<descriptionlist>
+		<description>Original Apple Siri for iPhone 4 and iPhone 3Gs & iPod Touch 4 running iOS 6.1.x</description>
+	</descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<version>1.0</version>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+	</links>
+</package>
